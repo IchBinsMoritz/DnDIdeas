@@ -1,3 +1,4 @@
-- Standard Waffen haben einen Nachteil
 - Wurden von den Göttern erkoren um Artefakte zu verteidigen
-- Sind alles Wesen der
+- Sind alles Wesen der Erde mit neuen Fähigkeiten:
+	- Standard Waffen haben einen Nachteil
+	-
