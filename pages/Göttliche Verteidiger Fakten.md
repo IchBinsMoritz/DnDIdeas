@@ -1,1 +1,2 @@
--
+- Standard Waffen haben einen Nachteil
+- Wurden von den Göttern erkoren um
