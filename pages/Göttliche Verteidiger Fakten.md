@@ -1,2 +1,3 @@
 - Standard Waffen haben einen Nachteil
-- Wurden von den Göttern erkoren um
+- Wurden von den Göttern erkoren um Artefakte zu verteidigen
+-
