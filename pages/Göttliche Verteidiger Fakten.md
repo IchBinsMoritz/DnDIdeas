@@ -1,4 +1,4 @@
 - Wurden von den Göttern erkoren um Artefakte zu verteidigen
 - Sind alles Wesen der Erde mit neuen Fähigkeiten:
-	- Nicht göttliche  Waffen haben einen Nachteil
-	-
+	- Nicht göttliche Waffen haben einen Nachteil
+	- haben gegen  nicht göttliche Rüstung einen Vorteil
