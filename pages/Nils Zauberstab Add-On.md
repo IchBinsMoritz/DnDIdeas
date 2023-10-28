@@ -1,2 +1,4 @@
 - Dieses erzeugt wir alle anderen göttlichen Waffen 2,5x Schaden
-- Außerdem wird bei jedem
+- Außerdem wird bei jedem Zaubernutzen einer dieser Zauber getriggert:
+	- ![178236-sample.pdf](../assets/178236-sample_1698502591606_0.pdf)
+- Das ganze wird
