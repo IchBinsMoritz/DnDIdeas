@@ -1,1 +1,1 @@
--
+- https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/178236-sample.pdf
