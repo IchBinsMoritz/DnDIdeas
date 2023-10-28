@@ -1,4 +1,4 @@
 - Wurden von den Göttern erkoren um Artefakte zu verteidigen
 - Sind alles Wesen der Erde mit neuen Fähigkeiten:
 	- Standard Waffen haben einen Nachteil
-	-
+	- ![Arjens-Kampf-Cheat-Sheet-v1.5.pdf](../assets/Arjens-Kampf-Cheat-Sheet-v1.5_1698503588553_0.pdf)
