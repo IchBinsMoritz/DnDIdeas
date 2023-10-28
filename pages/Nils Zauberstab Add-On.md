@@ -2,4 +2,4 @@
 - Außerdem wird bei jedem Zaubernutzen einer dieser Zauber getriggert:
 	- ![178236-sample.pdf](../assets/178236-sample_1698502591606_0.pdf)
 - Das ganze wird vorne drauf gestülpt
--
+	- Wenn es drauf ist, ist es unsichtbar und hat kein G
